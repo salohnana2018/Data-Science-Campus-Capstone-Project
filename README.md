@@ -164,6 +164,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * [Saudi Digital Academy](https://sda.edu.sa/)
 * [Coding Dojo](https://www.codingdojo.com/)
 * [Technical Indicators plotly subplots](https://www.kaggle.com/code/korfanakis/stock-technical-indicators-for-tesla-macd-rsi/notebook)
+* [Data Source](https://www.investing.com/stock-screener/?sp=country::52%7Csector::13%7Cindustry::a%7CequityType::a%7Cexchange::28%3Ceq_market_cap;1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
