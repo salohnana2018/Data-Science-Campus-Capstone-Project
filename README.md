@@ -16,10 +16,7 @@
   <h3 align="center">Capstone Project</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
+    Our project analyzes the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several     machine learning models that predict the stock's movement and provide a buy or sell recommendation.
   </p>
 </div>
 
