@@ -66,13 +66,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * Python;
 * Scikit-learn;
 * Pandas;
+* NumPy;
 * Plotly;
 * Matplotlib;
 * Seaborn;
-* [ROCKET](https://github.com/angus924/rocket)
-* [tsai](https://timeseriesai.github.io/tsai/)
-* [TA](https://technical-analysis-library-in-python.readthedocs.io/en/latest/)
-* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py)
+* [ROCKET](https://github.com/angus924/rocket);
+* [tsai](https://timeseriesai.github.io/tsai/);
+* [TA](https://technical-analysis-library-in-python.readthedocs.io/en/latest/);
+* [boruta_py](https://github.com/scikit-learn-contrib/boruta_py);
 
 
 
