@@ -13,7 +13,7 @@
   </a>
 
 <h3 align="center">Energy Sector Stock Movement Models</h3>
-  <h4 align="center">Capstone Project</h4>
+  <h3 align="center">Capstone Project</h3>
 
   <p align="center">
     project_description
