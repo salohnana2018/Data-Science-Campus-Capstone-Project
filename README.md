@@ -16,7 +16,7 @@
   <h3 align="center">Capstone Project</h3>
 
   <p align="center">
-    Our project analyzes the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several     machine learning models that predict the stock's movement and provide a buy or sell recommendation.
+    This capstone project is to fulfill the graduation requirements of the CodingDojo Data Science Bootcamp.
   </p>
 </div>
 
@@ -55,9 +55,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
- `@salohnana2018`,`@NoufJoh`,`@Rawan`,`@Rahaf`,`@Amal`,`Data-Science-Campus-Capstone-Project`, `Stock market classifcation`, `project_description`
+ `Data-Science-Campus-Capstone-Project`, `Saudi Stock market classifcation`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -103,6 +104,9 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
    ```sh
    git clone https://github.com/salohnana2018/Data-Science-Campus-Capstone-Project.git
    ```
+3. Open the part-one Jupyter notebook for data preprocessing and exploratory data analysis
+
+4. Open the part-two Jupyter notebook for machine-learning model training and evaluations
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
