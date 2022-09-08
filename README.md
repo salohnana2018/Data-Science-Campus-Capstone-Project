@@ -43,11 +43,10 @@
 In this project, we analyzed the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several five machine learning models that predict the stock's movement and provide a buy or sell recommendation. 
 The tested machine-learning algorithms include XGBoost,Random Forest classifier,SVM,logistic regression and [ROCKET](https://github.com/angus924/rocket) coupled  with RidgeClassifierCV. The highest accuracy obtained using the Random Forest classifier.
 
-
-
+<br/>
  `Data-Science-Campus-Capstone-Project`, `Saudi energy sector stock market classification`,`Time-series classificationt`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -65,11 +64,6 @@ The tested machine-learning algorithms include XGBoost,Random Forest classifier,
 * [tsai](https://timeseriesai.github.io/tsai/);
 * [TA](https://technical-analysis-library-in-python.readthedocs.io/en/latest/);
 * [boruta_py](https://github.com/scikit-learn-contrib/boruta_py);
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -114,7 +108,6 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
