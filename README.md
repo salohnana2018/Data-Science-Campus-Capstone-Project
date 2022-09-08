@@ -48,6 +48,12 @@
   </ol>
 </details>
 
+## Team Members
+* Salha Nasser `@salohnana2018`
+* NOUF ALJOHANI `@NoufJoh`
+* Amal Almutairi `@Amal001001`
+* Rawan Alsudias `@Rawan-Alsudai`
+* Rahaf Alzahrani `@rhfaalzz1`
 
 
 <!-- ABOUT THE PROJECT -->
