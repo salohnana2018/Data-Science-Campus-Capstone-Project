@@ -91,13 +91,13 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
 
 4. Open the part-two Jupyter notebook for machine-learning model training and evaluations
 
-5. For the first notebook, to see the plotly graphs offline, you have to run this code:  
+*Note:* For the first notebook, to see the plotly graphs offline, you have to run this code:  
  
 ```import plotly.offline as pyo 
-   import plotly.graph_objs as go ```
+   import plotly.graph_objs as go 
    #To Set notebook mode to work in offline 
       pyo.init_notebook_mode()
-
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
