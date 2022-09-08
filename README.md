@@ -40,7 +40,7 @@
   </a>
 </div>
 <br />
-In this project, we analyzed the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several five machine learning models that predict the stock's movement and provide a buy or sell recommendation. The tested machine-learning algorithms include XGBoost,Random Forest classifier,SVM,logistic regression and [ROCKET](https://github.com/angus924/rocket) coupled with RidgeClassifierCV. The highest accuracy obtained using the Random Forest classifier.
+In this project, we analyzed the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several five machine learning models that predict the stock's movement and provide a buy or sell recommendation. The tested machine-learning algorithms include XGBoost,Random Forest classifier,SVM,logistic regression and RandOm Convolutional KErnel Transform (ROCKET) coupled with RidgeClassifierCV. The highest accuracy obtained using the Random Forest classifier.
 
 
 <br/>
@@ -124,7 +124,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * Medium Link: [Capstone Project of Saudi Stock Exchange Market (Tadawul)](https://medium.com/@NoufJoh/data-science-capstone-project-saudi-stock-exchange-market-tadawul-36ddbc95ef5e)
 * Power BI dashboard Link: [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFlNDNjNWMtNTVkOC00YzgyLWE2MGUtYzM0NzU2MmFjNzZjIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9&pageName=ReportSectionf8bbdf02c10f725cbeee)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
