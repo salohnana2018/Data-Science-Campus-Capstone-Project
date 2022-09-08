@@ -98,11 +98,6 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
 ```
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -134,6 +129,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Coding Dojo](https://www.codingdojo.com/)
 * [Technical Indicators plotly subplots](https://www.kaggle.com/code/korfanakis/stock-technical-indicators-for-tesla-macd-rsi/notebook)
 * [Data Source](https://www.investing.com/stock-screener/?sp=country::52%7Csector::13%7Cindustry::a%7CequityType::a%7Cexchange::28%3Ceq_market_cap;1)
+* [ROCKET](https://github.com/angus924/rocket)
+* [timeseriesAI](https://github.com/timeseriesAI/tsai)
+* [Technical Analysis Features](https://technical-analysis-library-in-python.readthedocs.io/en/latest/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
