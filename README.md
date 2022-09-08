@@ -21,32 +21,7 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+ 
 
 ## Team Members
 * Salha Nasser `@salohnana2018`
@@ -118,10 +93,10 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
 
 5. For the first notebook, to see the plotly graphs offline, you have to run this code:  
  
-`import plotly.offline as pyo 
-import plotly.graph_objs as go 
-# Set notebook mode to work in offline 
-pyo.init_notebook_mode()`
+```import plotly.offline as pyo 
+   import plotly.graph_objs as go ```
+   #To Set notebook mode to work in offline 
+      pyo.init_notebook_mode()
 
 
 
