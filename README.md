@@ -40,7 +40,7 @@
   </a>
 </div>
 <br />
-In this project, we analyzed the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several five machine learning models that predict the stock's movement and provide a buy or sell recommendation. The tested machine-learning algorithms include XGBoost,Random Forest classifier,SVM,logistic regression and RandOm Convolutional KErnel Transform (ROCKET) coupled with RidgeClassifierCV. The highest accuracy obtained using the Random Forest classifier.
+In this project, we analyzed the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct five machine learning models that predict the stock's movement and provide a buy or sell recommendation. The tested machine-learning algorithms include XGBoost,Random Forest classifier,SVM,logistic regression and RandOm Convolutional KErnel Transform (ROCKET) coupled with RidgeClassifierCV. The highest accuracy obtained using the Random Forest classifier.
 
 <br/>
 
