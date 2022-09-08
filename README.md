@@ -118,10 +118,10 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
 
 For the first notebook, to see the plotly graphs offline, you have to run this code:  
  
-``import plotly.offline as pyo 
+`import plotly.offline as pyo 
 import plotly.graph_objs as go 
 # Set notebook mode to work in offline 
-pyo.init_notebook_mode()``
+pyo.init_notebook_mode()`
 
 
 
@@ -141,16 +141,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Salha Nasser - [Linkedin](https://www.linkedin.com/in/salha-nasser-40a30a131/)
-NOUF ALJOHAN - [Linkedin](https://www.linkedin.com/in/nouf-aljohani-3785191b3/)
-Rawan Alsudias - [Linkedin](https://www.linkedin.com/in/rawan-alsudais-76a4651b4)
-Rahaf Alzahrani - [Linkedin](https://www.linkedin.com/in/rhfaalzz/)
-Amal Almutairi - [Linkedin](https://www.linkedin.com/in/amalalmutairi001)
+* Salha Nasser - [Linkedin](https://www.linkedin.com/in/salha-nasser-40a30a131/)
+* NOUF ALJOHAN - [Linkedin](https://www.linkedin.com/in/nouf-aljohani-3785191b3/)
+* Rawan Alsudias - [Linkedin](https://www.linkedin.com/in/rawan-alsudais-76a4651b4)
+* Rahaf Alzahrani - [Linkedin](https://www.linkedin.com/in/rhfaalzz/)
+* Amal Almutairi - [Linkedin](https://www.linkedin.com/in/amalalmutairi001)
 
 
-Project Link: [Data-Science-Campus-Capstone-Project](https://github.com/salohnana2018/Data-Science-Campus-Capstone-Project)
-Medium Link: [Capstone Project of Saudi Stock Exchange Market (Tadawul)](https://medium.com/@NoufJoh/data-science-capstone-project-saudi-stock-exchange-market-tadawul-36ddbc95ef5e)
-Power BI dashboard Link: [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFlNDNjNWMtNTVkOC00YzgyLWE2MGUtYzM0NzU2MmFjNzZjIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9&pageName=ReportSectionf8bbdf02c10f725cbeee)
+* Project Link: [Data-Science-Campus-Capstone-Project](https://github.com/salohnana2018/Data-Science-Campus-Capstone-Project)
+* Medium Link: [Capstone Project of Saudi Stock Exchange Market (Tadawul)](https://medium.com/@NoufJoh/data-science-capstone-project-saudi-stock-exchange-market-tadawul-36ddbc95ef5e)
+* Power BI dashboard Link: [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFlNDNjNWMtNTVkOC00YzgyLWE2MGUtYzM0NzU2MmFjNzZjIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9&pageName=ReportSectionf8bbdf02c10f725cbeee)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
