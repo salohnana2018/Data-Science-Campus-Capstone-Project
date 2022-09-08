@@ -61,7 +61,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
- `Data-Science-Campus-Capstone-Project`, `Saudi Stock market classifcation`
+In this project, we analyzed the characteristics and trends of the Saudi energy sector stock market. The gained insight is then used to construct several five machine learning models that predict the stock's movement and provide a buy or sell recommendation. 
+The tested machine-learning algorithms include XGBoost,Random Forest classifier,SVM,logistic regression and [ROCKET](https://github.com/angus924/rocket) coupled  with RidgeClassifierCV. The highest accuracy obtained using the Random Forest classifier.
+
+
+
+ `Data-Science-Campus-Capstone-Project`, `Saudi energy sector stock market classification`,`Time-series classificationt`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,10 +95,6 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -102,6 +103,7 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
   ```
   pip install -r requirements.txt
   ```
+  
 
 ### Installation
 
@@ -113,6 +115,14 @@ Before using the jupyter notebook, ensure to install all the libraries stored in
 3. Open the part-one Jupyter notebook for data preprocessing and exploratory data analysis
 
 4. Open the part-two Jupyter notebook for machine-learning model training and evaluations
+
+For the first notebook, to see the plotly graphs offline, you have to run this code:  
+ 
+``import plotly.offline as pyo 
+import plotly.graph_objs as go 
+# Set notebook mode to work in offline 
+pyo.init_notebook_mode()``
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,10 +141,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+Salha Nasser - [Linkedin](https://www.linkedin.com/in/salha-nasser-40a30a131/)
+NOUF ALJOHAN - [Linkedin](https://www.linkedin.com/in/nouf-aljohani-3785191b3/)
+Rawan Alsudias - [Linkedin](https://www.linkedin.com/in/rawan-alsudais-76a4651b4)
+Rahaf Alzahrani - [Linkedin](https://www.linkedin.com/in/rhfaalzz/)
+Amal Almutairi - [Linkedin](https://www.linkedin.com/in/amalalmutairi001)
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Data-Science-Campus-Capstone-Project](https://github.com/salohnana2018/Data-Science-Campus-Capstone-Project)
+Medium Link: [Capstone Project of Saudi Stock Exchange Market (Tadawul)](https://medium.com/@NoufJoh/data-science-capstone-project-saudi-stock-exchange-market-tadawul-36ddbc95ef5e)
+Power BI dashboard Link: [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFlNDNjNWMtNTVkOC00YzgyLWE2MGUtYzM0NzU2MmFjNzZjIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9&pageName=ReportSectionf8bbdf02c10f725cbeee)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
