@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 * Salha Nasser - [Linkedin](https://www.linkedin.com/in/salha-nasser-40a30a131/)
-* NOUF ALJOHAN - [Linkedin](https://www.linkedin.com/in/nouf-aljohani-3785191b3/)
+* NOUF ALJOHANI - [Linkedin](https://www.linkedin.com/in/nouf-aljohani-3785191b3/)
 * Rawan Alsudias - [Linkedin](https://www.linkedin.com/in/rawan-alsudais-76a4651b4)
 * Rahaf Alzahrani - [Linkedin](https://www.linkedin.com/in/rhfaalzz/)
 * Amal Almutairi - [Linkedin](https://www.linkedin.com/in/amalalmutairi001)
